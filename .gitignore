@@ -1,2 +1,4 @@
 .venv/
 test2.py
+
+vosk-model-en-us-0.22*
