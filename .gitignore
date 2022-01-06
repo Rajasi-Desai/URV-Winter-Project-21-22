@@ -1,4 +1,6 @@
-.venv/
+venv/
 test2.py
+forme.txt
+personal_audio.m4a
 
 vosk-model-en-us-0.22*

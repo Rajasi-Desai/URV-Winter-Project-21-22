@@ -4,7 +4,7 @@ class Word:
     def __init__(self, dict):
         """
         Parameters:
-          dict (dict) dictionary from JSON, containing:
+          dict (dict) dictionary from JSON, containing:p
             conf (float): degree of confidence, from 0 to 1
             end (float): end time of the pronouncing the word, in seconds
             start (float): start time of the pronouncing the word, in seconds
